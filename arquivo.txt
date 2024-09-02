@@ -8,6 +8,4 @@ Adicionando funcionalidades
 
 a
 b
-c
-d
 e
